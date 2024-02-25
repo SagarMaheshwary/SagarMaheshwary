@@ -1,5 +1,8 @@
 # 💫 About Me:
-Working as a Software Engineer at Next Generation Innovations primarly using various backend technologies like Microservices, Node.js, TypeScript, PostgreSQL, Laravel, gRPC, Redis, Docker, AWS, and RabbitMQ.<br><br>I'm currently learning Golang while expanding my expertise in Microservices, System Design, and Distributed Systems.<br><br>I'm looking to collaborate on exciting and impactful projects or product ideas that involve cutting-edge technologies.<br><br>Ask me about Technology, Microservices, Event-Driven Architechture, Distributed Systems, Database Engineering, and Cloud Computing.<br><br>How to Reach Me:<br>- sagarmaheshwary31@gmail.com<br>- https://www.linkedin.com/in/sagarmaheshwary/
+Working as a Software Engineer at Next Generation Innovations primarly using various backend technologies like Microservices, Node.js, TypeScript, PostgreSQL, Laravel, gRPC, Redis, Docker, AWS, and RabbitMQ.<br><br>I'm currently learning Golang while expanding my expertise in Microservices, System Design, and Distributed Systems.<br><br>I'm looking to collaborate on exciting and impactful projects or product ideas that involve cutting-edge technologies.<br><br>Ask me about Technology, Microservices, Event-Driven Architechture, Distributed Systems, Database Engineering, and Cloud Computing.<br>
+
+# How to Reach Me:
+sagarmaheshwary31@gmail.com<br>[Linkedin](https://www.linkedin.com/in/sagarmaheshwary/)
 
 
 # 💻 Tech Stack:
