@@ -32,8 +32,8 @@ I’m always looking to contribute to **open-source projects** and collaborate o
 
 
 ### 📩 Get in Touch
-📧 Email: **sagarmaheshwary31@gmail.com**  
+📧 **sagarmaheshwary31@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/sagarmaheshwary/)  
-🌐 [GitHub](https://github.com/SagarMaheshwary)
+🌐 [Medium](https://medium.com/@sagarmaheshwary31)
 
 🚀 *Let's build scalable, high-performance systems together!*
