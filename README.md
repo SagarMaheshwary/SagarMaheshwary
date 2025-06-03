@@ -56,6 +56,7 @@ I'm actively looking to join **international teams** that solve complex engineer
 ### 📩 Reach Out
 
 📧 **[sagarmaheshwary31@gmail.com](mailto:sagarmaheshwary31@gmail.com)**
+
 🔗 [LinkedIn](https://www.linkedin.com/in/sagarmaheshwary/)
 
 ---
