@@ -1,39 +1,63 @@
 # 👋 Hey, I'm Sagar Maheshwary!
 
+### 🚀 Senior Backend Engineer | Microservices | DevOps | Distributed Systems
 
-### 🚀 Backend Engineer | Microservices | Cloud | Distributed Systems
+I specialize in designing and scaling **high-performance, distributed backend systems**. With **6 years of hands-on experience**, I’ve led architecture design and development for real-time and high-traffic systems, built on **modern backend stacks**, **DevOps tooling**, and **cloud-native infrastructure**.
 
-I specialize in **scalable backend systems, microservices, and cloud-native architectures**. With **5+ years** of experience, I focus on building **high-performance distributed systems** using modern backend technologies.
+Currently, I’m a **Senior Backend Engineer** at **Next Generation Innovations**, where I work across microservices, infrastructure, and system design — scaling APIs to millions of daily requests and enabling production-grade observability and resilience.
 
-Currently, I design and optimize backend services as a **Software Engineer** at **Next Generation Innovations**, driving scalability and performance improvements.
+---
 
+### 🛠️ Tech Stack & Tools
 
-### 🛠 My Tech Stack
+**Languages & Frameworks:**
+Golang · Node.js (TypeScript) · NestJS · Laravel
 
-**Languages & Frameworks:** Golang, NodeJS, Typescript, NestJS, Laravel
+**Databases & Messaging:**
+PostgreSQL · MySQL · Redis · RabbitMQ
 
-**Databases & Messaging:** PostgreSQL, MySQL, Redis, MongoDB, RabbitMQ
+**Backend Architecture:**
+Microservices · gRPC · REST APIs · Event-driven Systems · WebSocket
 
-**Backend & DevOps:** Microservices, gRPC, Docker, Kubernetes, CI/CD, AWS, Linux, WebSocket, REST API, Nginx
+**Infrastructure & DevOps:**
+Docker · Kubernetes · AWS · GCP · Azure · Linux · Nginx · CI/CD
 
-**Monitoring & Logging:** Grafana, Prometheus, Loki
+**Monitoring & Observability:**
+Prometheus · Grafana · Loki · Pino · Custom Metrics & Alerts
 
-**Others:** Unit Testing, Git
+**Engineering Practices:**
+Load Testing · Distributed Tracing · System Design · Unit Testing · Git
 
+---
 
-### 🌟 Currently Improving & Expanding Expertise
-- **Kubernetes & Terraform** – Enhancing automation and scalability for cloud deployments (building on my existing experience).
-- **GCP & Azure** – Strengthening multi-cloud proficiency.
-- **Deep dive into System Design & High Scalability** – Refining advanced architectural skills beyond the fundamentals.
+### 🔧 Projects & Expertise Highlights
 
+* **Built and scaled a real-time AI telephony system** with Asterisk, RabbitMQ, OpenAI, and gRPC — handling hundreds of concurrent voice calls and millions of API requests.
+* **Architected and deployed a video streaming platform** using Microservices, Kubernetes, and gRPC — managed end-to-end infra and service communication.
+* **Integrated full observability stack** using Prometheus, Grafana, and Loki.
+* **Conducted load testing and bottleneck analysis** for RabbitMQ (200+ msg/sec peak), PostgreSQL, Redis, and audio processing services.
 
-### 💡 Open to Collaborations
-I’m always looking to contribute to **open-source projects** and collaborate on exciting, impactful ideas! Let’s build something great together. 🚀
+---
 
+### 🌱 Currently Deepening Expertise
 
-### 📩 Get in Touch
-📧 **sagarmaheshwary31@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/sagarmaheshwary/)  
-🌐 [Medium](https://medium.com/@sagarmaheshwary31)
+* **System Design for Scale** – Focusing on high-availability, fault-tolerant designs
+* **Cloud-native Infrastructure** – Expanding AWS and Kubernetes production skills
+* **Open Source Contribution** – Building reusable libraries and developer tools
 
-🚀 *Let's build scalable, high-performance systems together!*
+---
+
+### 🤝 Open to Opportunities & Collaborations
+
+I'm actively looking to join **international teams** that solve complex engineering problems at scale. Open to **open-source contributions** and backend-focused collaborations too!
+
+---
+
+### 📩 Reach Out
+
+📧 **[sagarmaheshwary31@gmail.com](mailto:sagarmaheshwary31@gmail.com)**
+🔗 [LinkedIn](https://www.linkedin.com/in/sagarmaheshwary/)
+
+---
+
+🚀 *Let’s build fast, scalable, and reliable systems — together.*
