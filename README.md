@@ -33,7 +33,7 @@ Load Testing · Distributed Tracing · System Design · Unit Testing · Git
 ### 🔧 Projects & Expertise Highlights
 
 * **Built and scaled a real-time AI telephony system** with Asterisk, RabbitMQ, OpenAI, and gRPC — handling hundreds of concurrent voice calls and millions of API requests.
-* **Architected and deployed a video streaming platform** using Microservices, Kubernetes, and gRPC — managed end-to-end infra and service communication.
+* **Architected and deployed a [video streaming platform](https://github.com/SagarMaheshwary/microservices)** using Microservices, Kubernetes, and gRPC — managed end-to-end infra and service communication.
 * **Integrated full observability stack** using Prometheus, Grafana, and Loki.
 * **Conducted load testing and bottleneck analysis** for APIs, RabbitMQ, PostgreSQL, and Redis.
 
