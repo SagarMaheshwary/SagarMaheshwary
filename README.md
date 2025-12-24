@@ -1,64 +1,71 @@
-# 👋 Hey, I'm Sagar Maheshwary!
+### 👋 Hi, I’m Sagar
 
-### 🚀 Senior Backend Engineer | Microservices | DevOps | Distributed Systems
+Senior Backend Engineer with **6+ years of experience** designing and operating **backend systems, microservices, and distributed architectures**.
 
-I specialize in designing and scaling **high-performance, distributed backend systems**. With **6 years of hands-on experience**, I’ve led architecture design and development for real-time and high-traffic systems, built on **modern backend stacks**, **DevOps tooling**, and **cloud-native infrastructure**.
+I focus on building **reliable, observable, and scalable systems**, with strong interest in:
 
-Currently, I’m a **Senior Backend Engineer** at **Next Generation Innovations**, where I work across microservices, infrastructure, and system design — scaling APIs to millions of daily requests and enabling production-grade observability and resilience.
+* Distributed systems & messaging
+* Service-to-service communication (gRPC)
+* Observability & production readiness
+* System design trade-offs
 
----
-
-### 🛠️ Tech Stack & Tools
-
-**Languages & Frameworks:**
-Golang · Node.js (TypeScript) · NestJS · Laravel
-
-**Databases & Messaging:**
-PostgreSQL · MySQL · Redis · RabbitMQ
-
-**Backend Architecture:**
-Microservices · gRPC · REST APIs · Event-driven Systems · WebSocket
-
-**Infrastructure & DevOps:**
-Docker · Kubernetes · AWS · GCP · Azure · Linux · Nginx · CI/CD
-
-**Monitoring & Observability:**
-Prometheus · Grafana · Loki · Pino · Custom Metrics & Alerts
-
-**Engineering Practices:**
-Load Testing · Distributed Tracing · System Design · Unit Testing · Git
+I enjoy going deep into *why systems behave the way they do*, not just how to wire them together.
 
 ---
 
-### 🔧 Projects & Expertise Highlights
+### 🛠️ Core Expertise
 
-* **Built and scaled a real-time AI telephony system** with Asterisk, RabbitMQ, OpenAI, and gRPC — handling hundreds of concurrent voice calls and millions of API requests.
-* **Architected and deployed a [video streaming platform](https://github.com/SagarMaheshwary/microservices)** using Microservices, Kubernetes, and gRPC — managed end-to-end infra and service communication.
-* **Integrated full observability stack** using Prometheus, Grafana, and Loki.
-* **Conducted load testing and bottleneck analysis** for APIs, RabbitMQ, PostgreSQL, and Redis.
-
----
-
-### 🌱 Currently Deepening Expertise
-
-* **System Design for Scale** – Focusing on high-availability, fault-tolerant designs
-* **Cloud-native Infrastructure** – Expanding AWS and Kubernetes production skills
-* **Open Source Contribution** – Building reusable libraries and developer tools
+* **Languages:** Go, Node.js (TypeScript)
+* **Backend & APIs:** gRPC, REST, NestJS
+* **Datastores:** PostgreSQL, Redis
+* **Messaging:** RabbitMQ (AMQP), event-driven systems
+* **Infrastructure:** Docker, Kubernetes (KIND), AWS
+* **Observability:** Prometheus, Grafana, Loki, Jaeger, OpenTelemetry
+* **Architecture:** Microservices, async workflows, idempotency, retries, backoff, graceful shutdowns
 
 ---
 
-### 🤝 Open to Opportunities & Collaborations
+### 📚 Writing & Knowledge Sharing
 
-I'm actively looking to join **international teams** that solve complex engineering problems at scale. Open to **open-source contributions** and backend-focused collaborations too!
+I actively write about **real-world backend and distributed systems topics**, focusing on production-oriented thinking.
+
+#### Selected Articles:
+* **Designing Go Microservices**
+  * Project structure, config, logging, gRPC server, graceful shutdowns
+  * Postgres integration, Redis caching, observability, health checks
+* **Hands-On Kubernetes with KIND**
+  * Event-driven microservices using Go, NestJS, RabbitMQ, NGINX Ingress
+  * Fully local Kubernetes playground for learning & experimentation
+* **Understanding gRPC Client-Side Load Balancing with DNS**
+
+📌 I share shorter insights and diagrams on **LinkedIn**, and deeper technical write-ups on **dev.to / Medium**.
 
 ---
 
-### 📩 Reach Out
+### 🎯 What I Care About
 
-📧 **[sagarmaheshwary31@gmail.com](mailto:sagarmaheshwary31@gmail.com)**
-
-🔗 [LinkedIn](https://www.linkedin.com/in/sagarmaheshwary/)
+* Clean architecture & clear service boundaries
+* Failure handling (timeouts, retries, idempotency)
+* Production observability before “pretty dashboards”
+* Systems that fail **predictably**, not silently
+* Long-term maintainability over short-term hacks
 
 ---
 
-🚀 *Let’s build fast, scalable, and reliable systems — together.*
+### 🌍 Looking Ahead
+
+I’m interested in **senior backend / distributed systems roles** with:
+
+* Strong engineering culture
+* Real production scale
+* Emphasis on correctness, reliability, and learning
+* Remote-first or relocation-friendly environments (EU / global)
+
+---
+
+### 🔗 Find Me
+
+* **LinkedIn:** https://www.linkedin.com/in/sagarmaheshwary/
+* **dev.to:** https://dev.to/sagarmaheshwary
+* **Medium:** https://medium.com/@sagarmaheshwary31
+* **GitHub:** You’re already here 🙂
