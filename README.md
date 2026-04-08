@@ -11,21 +11,34 @@ I focus on building **reliable, observable, and scalable systems**, with a stron
 
 I enjoy going deep into _why systems behave the way they do_, not just how to wire them together.
 
----
+### Featured Project
 
-### 🛠️ Core Expertise
+#### 🔎 reqlog — Trace requests across services & Docker logs (Golang)
+
+![Demo](https://github.com/SagarMaheshwary/reqlog/raw/master/assets/demo.gif)
+
+A lightweight CLI tool to **trace requests across multiple services, files, and Docker containers using key/value search (e.g. request_id, trace_id)**.
+
+- Built in **Go** for speed and simplicity
+- Supports **file logs + Docker logs** (multi-source tracing)
+- Enables **fast request tracing during production incidents**
+- Used by my **team in real debugging workflows**
+- Includes **filtering, follow mode, and multi-source search**
+
+👉 Built to solve real-world debugging pain in distributed systems  
+👉 Personally used it to significantly reduce time to trace requests across services
+
+### Core Expertise
 
 - **Languages:** Go, Node.js (TypeScript)
 - **Backend & APIs:** gRPC, REST, NestJS
 - **Datastores:** PostgreSQL, Redis
-- **Messaging:** RabbitMQ (AMQP), event-driven systems
+- **Messaging:** RabbitMQ (AMQP), Event-Driven systems
 - **Infrastructure:** Docker, Kubernetes (KIND), AWS
 - **Observability:** Prometheus, Grafana, Loki, Jaeger, OpenTelemetry
-- **Architecture:** Microservices, async workflows, idempotency, retries, backoff, graceful shutdowns
+- **Architecture:** Microservices, Async workflows, Idempotency, Retries, Backoff, Graceful Shutdowns
 
----
-
-### 📚 Writing & Knowledge Sharing
+### Writing & Knowledge Sharing
 
 I actively write about **real-world backend and distributed systems topics**, with a strong focus on **production correctness, failure handling, and operational trade-offs**.
 
@@ -48,11 +61,9 @@ I actively write about **real-world backend and distributed systems topics**, wi
   - PostgreSQL integration, Redis caching
   - Prometheus metrics, OpenTelemetry tracing, health checks
 
-📌 I share shorter insights and architecture diagrams on **LinkedIn**, and deeper technical write-ups on **dev.to**.
+I share shorter insights and architecture diagrams on **LinkedIn**, and deeper technical write-ups on **dev.to**.
 
----
-
-### 🎯 What I Care About
+### What I Care About
 
 - Clean architecture & clear service boundaries
 - Failure handling (timeouts, retries, idempotency)
@@ -60,9 +71,7 @@ I actively write about **real-world backend and distributed systems topics**, wi
 - Systems that fail **predictably**, not silently
 - Long-term maintainability over short-term hacks
 
----
-
-### 🌍 Looking Ahead
+### Looking Ahead
 
 I’m interested in **senior backend / distributed systems roles** with:
 
@@ -71,10 +80,8 @@ I’m interested in **senior backend / distributed systems roles** with:
 - Emphasis on correctness, reliability, and learning
 - Remote-first or relocation-friendly environments (EU / global)
 
----
+### Find Me
 
-### 🔗 Find Me
-
-- **LinkedIn:** [https://www.linkedin.com/in/sagarmaheshwary/](https://www.linkedin.com/in/sagarmaheshwary/)
-- **dev.to:** [https://dev.to/sagarmaheshwary](https://dev.to/sagarmaheshwary)
+- **LinkedIn:** https://www.linkedin.com/in/sagarmaheshwary/
+- **dev.to:** https://dev.to/sagarmaheshwary
 - **GitHub:** You’re already here 🙂
