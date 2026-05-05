@@ -1,28 +1,19 @@
 ### 👋 Hi, I’m Sagar
 
-Senior Backend Engineer with **6+ years of experience** building **microservices, distributed systems, and production backend platforms**.
-
-**Core focus**
-- Go, Node.js (TypeScript)
-- gRPC, REST, RabbitMQ, Kafka
-- PostgreSQL, Redis
-- Docker, Kubernetes, AWS
-- Prometheus, Grafana, Loki, Jaeger, OpenTelemetry
+Senior Backend Engineer with **6+ years of experience** building **distributed backend systems, microservices, and production services**.
 
 I enjoy working on **reliability, observability, async workflows, idempotency, retries, and system design trade-offs**.
 
 ### Featured Project
 
-#### 🔎 reqlog
+#### 🔎 [reqlog](https://github.com/SagarMaheshwary/reqlog)
 
-A lightweight **Go CLI** for tracing requests across **multiple services** using keys like `request_id` and `trace_id`.
+A lightweight **Go CLI** for tracing requests across **services, log files, and Docker containers** using keys like `request_id` and `trace_id`.
 
 - Multi-source tracing across **file logs + Docker logs**
 - Built for **fast debugging during production incidents**
 - Supports **filtering, follow mode, and targeted search**
 - Used by my team in **real debugging workflows**
-
----
 
 ### Writing
 
@@ -33,8 +24,6 @@ I write about **real-world backend and distributed systems engineering**.
 - **[gRPC Client-Side Load Balancing with DNS](https://dev.to/sagarmaheshwary/understanding-grpc-client-side-load-balancing-with-dns-481b)**
 - **[Designing Go Microservices](https://dev.to/sagarmaheshwary/go-microservices-boilerplate-series-from-hello-world-to-production-part-1-46k5)** (3-part series)
 - **[Hands-On Kubernetes with KIND](https://dev.to/sagarmaheshwary/hands-on-kubernetes-running-event-driven-microservices-locally-with-kind-1cm8)**
-
----
 
 ### Find Me
 
