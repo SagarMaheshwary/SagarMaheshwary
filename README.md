@@ -8,12 +8,12 @@ I enjoy working on **reliability, observability, async workflows, idempotency, r
 
 #### 🔎 [reqlog](https://github.com/SagarMaheshwary/reqlog)
 
-A lightweight **Go CLI** for tracing requests across **services, log files, and Docker containers** using keys like `request_id` and `trace_id`.
+A lightweight **Go CLI** for tracing requests across **files, Docker logs, and remote hosts over SSH** using keys like `request_id` and `trace_id`.
 
-- Multi-source tracing across **file logs + Docker logs**
-- Built for **fast debugging during production incidents**
-- Supports **filtering, follow mode, and targeted search**
-- Used by my team in **real debugging workflows**
+* Search across **local logs, containers, and remote hosts**
+* Built for **fast debugging during production incidents**
+* Supports **filtering, follow mode, JSON output, and targeted search**
+* Used by my team in **real debugging workflows**
 
 ### Writing
 
